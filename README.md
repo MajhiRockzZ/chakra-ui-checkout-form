@@ -1,4 +1,5 @@
-![demo video](./public/intro.mp4)
+https://user-images.githubusercontent.com/28085218/142969652-3fbec5a5-2a1b-4ae9-9401-387f63d913aa.mp4
+
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
